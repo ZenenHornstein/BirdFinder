@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bird_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/bird_textView_name"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center|clip_vertical"
+        android:layout_marginHorizontal="5dp"
+        android:layout_weight="3"
+        android:textColor="@color/teal_700"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/bird_textView_scientific_name"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="5dp"
+        android:layout_weight="2"
+        android:textAlignment="textStart"
+        android:textColor="@color/teal_700"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/bird_textView_species_code"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="5dp"
+        android:layout_weight="1"
+        android:textAlignment="textEnd"
+        android:textColor="@color/teal_700"
+        android:textSize="10sp" />
+</LinearLayout>

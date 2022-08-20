@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BirdFinder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_label_search">SEARCH</string>
+    <string name="button_label_map">RETURN TO MAP</string>
+    <string name="bird_list_icon">bird list icon</string>
+    <string name="bird_info_picture">bird portrait</string>
+    <string name="button_label_mode">Map Mode</string>
+    <string name="textView_range">RANGE:</string>
+    <string name="textView_range_hint">Input Search Radius</string>
+    <string name="select_common_name_label">Common Name</string>
+    <string name="select_scientific_name_label">Scientific Name</string>
+    <string name="select_code_label">Species Code</string>
+    <string name="zoom_button">Zoom In</string>
+    <string name="zoom_out_button">Zoom Out</string>
+</resources>
