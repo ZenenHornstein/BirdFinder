@@ -1,5 +1,5 @@
 # BirdFinder
-A interactive mobile application for learning about birds in your area.
+An interactive mobile application for learning about birds in your area.
 
 
 # Demo 
