@@ -3,7 +3,8 @@ An interactive mobile application for learning about birds in your area.
 
 
 # Demo 
-https://user-images.githubusercontent.com/49211357/185809853-11e67f78-d318-4675-a640-b05f03a8a65b.mp4
+https://user-images.githubusercontent.com/49211357/185809970-247de687-b069-454d-93fc-8a288bb6148a.mp4
+
 
 
 
